@@ -70,7 +70,7 @@ The dashboard uses an **Employee HR Dataset** containing:
 
 ## 🖼️ Dashboard Preview
 
-![HR Analytics Dashboard](Dashboad%20Image.png)
+![HR Analytics Dashboard](https://github.com/puneet-techx/HR-Analytics-Dashboard/blob/main/Dashboad%20Image.png)
 
 ---
 
