@@ -10,7 +10,6 @@ The HR Analytics Dashboard is an interactive Business Intelligence solution deve
 
 The dashboard enables HR teams and business leaders to make data-driven decisions for improving employee retention, workforce planning, and organizational growth.
 
-![HR Analytics Dashboard](https://github.com/puneet-techx/HR-Analytics-Dashboard/blob/main/Dashboad%20Image.png)
 ---
 
 ## 🛠️ Tech Stack
